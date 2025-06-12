@@ -3,20 +3,20 @@ As a kid I liked breaking my stuff to fix them, it was a fun moment for me, and 
 My degree can be concerned with programming, so while it's summer (or break) I'd like to get a feel for it, learn the basics, and have web development as one of my career paths in coding. 
 # Coding is, so far, very fun.
 
-# This repository serves as a place for projects that I made while learning to be a "Full Stack Developer" with freeCodeCamp.org, and working towards completion to get a certification. Here, I'm not looking to just make the project that works and can be submitted but rather have something I can contiously expand as I gain more knowledge and skills. Feel free to look around my commits, I put them here for me and others to see (also because I like how that green github commitments looks).
+This repository serves as a place for projects that I made while learning to be a "Full Stack Developer" with freeCodeCamp.org, and working towards completion to get a certification. Here, I'm not looking to just make the project that works and can be submitted but rather have something I can contiously expand as I gain more knowledge and skills. Feel free to look around my commits, I put them here for me and others to see (also because I like how that green github commitments looks).
 
-<--- 6/11/2025 ---> [recipelistPage HTML]
-# This project took me 2 hours and 10 minutes. Though, me being scared outta my mind seeing the empty editor and running back to the CatPhotoApp tutorial probably had something to do with it. I had a lot of fun so I went the extra mile to add a few more things that weren't required after I had submitted the project.
-# Coding has been great so far, and I hope it keeps its magic.
+# <--- 6/11/2025 ---> [recipelistPage HTML]
+This project took me 2 hours and 10 minutes. Though, me being scared outta my mind seeing the empty editor and running back to the CatPhotoApp tutorial probably had something to do with it. I had a lot of fun so I went the extra mile to add a few more things that weren't required after I had submitted the project.
+Coding has been great so far, and I hope it keeps its magic.
 
 
 
-<--- 6/12/2025 ---> [travelagencyPage HTML]
-# This project, I honestly didn't bother to check the time before I started. Though, I assume it took me a solid 45 minutes. I was introduced to a few "Search Engine Optimization" techniques with meta, also had to take a quiz on the lessons, and was required to make this website alongside some practice on &lt;figure&gt; elements. It was great, didn't have many errors and got everything the approved the first time around.
-# After working on [travelagencyPage] I was still up for more, so I went and revisited my [recipelistPage]. I put [recipelistPage] through AI (Bing Copilot) to get some feedback on how I structured it, and while it praised me on my semantic HTML structure, playful content, proper image usage, and accessibility consideration, I did receive feedback on three things I got wrong:
+# <--- 6/12/2025 ---> [travelagencyPage HTML]
+This project, I honestly didn't bother to check the time before I started. Though, I assume it took me a solid 45 minutes. I was introduced to a few "Search Engine Optimization" techniques with meta, also had to take a quiz on the lessons, and was required to make this website alongside some practice on &lt;figure&gt; elements. It was great, didn't have many errors and got everything the approved the first time around.
+After working on [travelagencyPage] I was still up for more, so I went and revisited my [recipelistPage]. I put [recipelistPage] through AI (Bing Copilot) to get some feedback on how I structured it, and while it praised me on my semantic HTML structure, playful content, proper image usage, and accessibility consideration, I did receive feedback on three things I got wrong:
 1. Incorrect &lt;main&gt; tag placement - which was in two parts the &lt;head&gt;, and &lt;body&gt;. I went ahead and fixed that by making sure &lt;main&gt; is only within the &lt;body&gt; structure.
 2. Metadata considerations - I did not have a &lt;metadata&gt; description for SEO, in my defense I was only introduced to it today, so to fix I added an appropriate description for the page contents.
 3. List structure - My &lt;img&gt; elements were just sitting plainly in the &lt;ul&gt; element after the listed item. I went ahead and fixed it by wrapping each image inside a &lt;figure&gt; element.
 
-#TLDR: Learned a few new things today which are SEO practices through metadata, as well as character entities. Furthermore, I practiced and repracticed lines I did for [recipelistPage] to create [travelagencyPage], as well as updated [recipelistPage] to my current knowledge, which help me get a better understanding on why if you write code, you should write it to be readable for humans aswell. 
+TLDR: Learned a few new things today which are SEO practices through metadata, as well as character entities. Furthermore, I practiced and repracticed lines I did for [recipelistPage] to create [travelagencyPage], as well as updated [recipelistPage] to my current knowledge, which help me get a better understanding on why if you write code, you should write it to be readable for humans aswell. 
 ( P.S I'm not saying that last line because I struggled to read my first HTML code, just that I realized I needed to work on my spacings :) )
