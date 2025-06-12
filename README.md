@@ -12,7 +12,7 @@ Coding has been great so far, and I hope it keeps its magic.
 
 
 # <--- 6/12/2025 ---> [travelagencyPage HTML]
-This project, I honestly didn't bother to check the time before I started. Though, I assume it took me a solid 45 minutes. I was introduced to a few "Search Engine Optimization" techniques with meta, also had to take a quiz on the lessons, and was required to make this website alongside some practice on &lt;figure&gt; elements. It was great, didn't have many errors and got everything the approved the first time around.
+This project, I honestly didn't bother to check the time before I started. Though, I assume it took me a solid 45 minutes. I was introduced to a few "Search Engine Optimization" techniques with meta, also had to take a quiz on the lessons, and was required to make this website alongside some practice on &lt;figure&gt; elements. It was great, didn't have many errors and got everything approved the first time around.
 After working on [travelagencyPage] I was still up for more, so I went and revisited my [recipelistPage]. I put [recipelistPage] through AI (Bing Copilot) to get some feedback on how I structured it, and while it praised me on my semantic HTML structure, playful content, proper image usage, and accessibility consideration, I did receive feedback on three things I got wrong:
 1. Incorrect &lt;main&gt; tag placement - which was in two parts the &lt;head&gt;, and &lt;body&gt;. I went ahead and fixed that by making sure &lt;main&gt; is only within the &lt;body&gt; structure.
 2. Metadata considerations - I did not have a &lt;metadata&gt; description for SEO, in my defense I was only introduced to it today, so to fix I added an appropriate description for the page contents.
