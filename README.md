@@ -1,4 +1,4 @@
-# I'm Adrian, entering college to get a "Bachelors Degree In Computer Engineering. 
+# I'm Adrian, entering college to get a "Bachelors Degree In Computer Engineering" whilst learning to be a "Full Stack" web developer.
 As a kid I liked breaking my stuff to fix them, it was a fun moment for me, and if we had all the money in the world I'm sure I would have ended up with a room full of perfectly fine tech, broken to be fixed.
 My degree can be concerned with programming, so while it's summer (or break) I'd like to get a feel for it, learn the basics, and have web development as one of my career paths in coding. 
 # Coding is, so far, very fun.
