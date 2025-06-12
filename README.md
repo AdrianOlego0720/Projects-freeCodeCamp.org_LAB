@@ -1,6 +1,7 @@
-# I'm Adrian, entering college to get a "Bachelors Degree In Computer Engineering. As a kid I liked breaking my stuff to fix them, it was a fun moment for me, and if we had all the money in the world I'm sure I would have ended up with a room full of perfectly fine tech, broken to be fixed.
+# I'm Adrian, entering college to get a "Bachelors Degree In Computer Engineering. 
+As a kid I liked breaking my stuff to fix them, it was a fun moment for me, and if we had all the money in the world I'm sure I would have ended up with a room full of perfectly fine tech, broken to be fixed.
 My degree can be concerned with programming, so while it's summer (or break) I'd like to get a feel for it, learn the basics, and have web development as one of my career paths in coding. 
-Coding is, so far, very fun.
+# Coding is, so far, very fun.
 
 # This repository serves as a place for projects that I made while learning to be a "Full Stack Developer" with freeCodeCamp.org, and working towards completion to get a certification. Here, I'm not looking to just make the project that works and can be submitted but rather have something I can contiously expand as I gain more knowledge and skills. Feel free to look around my commits, I put them here for me and others to see (also because I like how that green github commitments looks).
 
