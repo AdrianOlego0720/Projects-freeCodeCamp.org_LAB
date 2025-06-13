@@ -20,3 +20,16 @@ After working on [travelagencyPage] I was still up for more, so I went and revis
 
 TLDR: Learned a few new things today which are SEO practices through metadata, as well as character entities. Furthermore, I practiced and repracticed lines I did for [recipelistPage] to create [travelagencyPage], as well as updated [recipelistPage] to my current knowledge, which help me get a better understanding on why if you write code, you should write it to be readable for humans aswell. 
 ( P.S I'm not saying that last line because I struggled to read my first HTML code, just that I realized I needed to work on my spacings :) )
+
+
+
+# <--- 6/13/2025 ---> [videocompilationPage HTML]
+This project was rather simple, it taught me the basics of embedding links, and permission lines required to make outside links work. Though, I only used YouTube links, not maps or audio files. For now, I'll avoid trying to update it with an audio file as I understand this involves a call script and I don't really know how to make folders within GitHub repositories. Lazy, I know, but the heat in my room is becoming increasingly unbearable now that the rainy weather is coming to a halt so I will shift my schedule to practice to account for that.
+
+During this lab I revisited and picked up on a few things: 
+1. I forget to incorporate &lt;section&gt; to my &lt;body&lt; element --- It's important sections are clearly labeled within the code to ensure proper accesibility to on-screen readers.
+2. &lt;footer&gt; Should be within the body, but just outside the &lt;main&lt; element --- This ensures that any disclaimers for the website, or other vital information are always loaded regardless of the page the user may branch into.
+
+Issues that happened today:
+1. Embeded links failed to load --- I had forgotten a core concept of embedding with YouTube and that is to replace the &#47;watch?v=nqO6cEbXyKM line with the &#47;embed&#47;nqO6cEbXyKM line. P.S that link goes to the Youtuber that pointed it out with a rather straightforward video, wasted opportunity to rickroll I know, but I wanted to document the first YouTube video I'd have consulted for a simple issue.
+2. I had this moment where I thought I had encountered an issue, the embeded links would load properly but never play audio. I begun messing around with the &lt;iframe&gt; string, and thought I was coming to a eureka moment where I'd solve my first issue. I was even comparing the embeded link Youtube provides, to the embeded link i had typed. Turns out, no, it was never a problem with the code, my system was just muted. &#40;Note to self: You have a 60% hall effect keyboard where it's very easy to press the FN key and access a shortcut option during heavy typing sessions&#41;
