@@ -27,8 +27,8 @@ TLDR: Learned a few new things today which are SEO practices through metadata, a
 This project was rather simple, it taught me the basics of embedding links, and permission lines required to make outside links work. Though, I only used YouTube links, not maps or audio files. For now, I'll avoid trying to update it with an audio file as I understand this involves a call script and I don't really know how to make folders within GitHub repositories. Lazy, I know, but the heat in my room is becoming increasingly unbearable now that the rainy weather is coming to a halt so I will shift my schedule to practice to account for that.
 
 During this lab I revisited and picked up on a few things: 
-1. I forget to incorporate &lt;section&gt; to my &lt;body&lt; element --- It's important sections are clearly labeled within the code to ensure proper accesibility to on-screen readers.
-2. &lt;footer&gt; Should be within the body, but just outside the &lt;main&lt; element --- This ensures that any disclaimers for the website, or other vital information are always loaded regardless of the page the user may branch into.
+1. I forget to incorporate &lt;section&gt; to my &lt;body&gt; element --- It's important sections are clearly labeled within the code to ensure proper accesibility to on-screen readers.
+2. &lt;footer&gt; Should be within the body, but just outside the &gt;main&lt; element --- This ensures that any disclaimers for the website, or other vital information are always loaded regardless of the page the user may branch into.
 
 Issues that happened today:
 1. Embeded links failed to load --- I had forgotten a core concept of embedding with YouTube and that is to replace the &#47;watch?v=nqO6cEbXyKM line with the &#47;embed&#47;nqO6cEbXyKM line. P.S that link goes to the Youtuber that pointed it out with a rather straightforward video, wasted opportunity to rickroll I know, but I wanted to document the first YouTube video I'd have consulted for a simple issue.
