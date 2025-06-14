@@ -33,3 +33,14 @@ During this lab I revisited and picked up on a few things:
 Issues that happened today:
 1. Embeded links failed to load --- I had forgotten a core concept of embedding with YouTube and that is to replace the &#47;watch?v=nqO6cEbXyKM line with the &#47;embed&#47;nqO6cEbXyKM line. P.S that link goes to the Youtuber that pointed it out with a rather straightforward video, wasted opportunity to rickroll I know, but I wanted to document the first YouTube video I'd have consulted for a simple issue.
 2. I had this moment where I thought I had encountered an issue, the embeded links would load properly but never play audio. I begun messing around with the &lt;iframe&gt; string, and thought I was coming to a eureka moment where I'd solve my first issue. I was even comparing the embeded link Youtube provides, to the embeded link i had typed. Turns out, no, it was never a problem with the code, my system was just muted. &#40;Note to self: You have a 60% hall effect keyboard where it's very easy to press the FN key and access a shortcut option during heavy typing sessions&#41;
+
+
+
+# <--- 6/14/2025 ---> [Code Optimizations]
+I decided that every 3 days, I'd take a break. freeCodeCamp.org's bootcamp is structured in a way where theres the introduction to the code, how it's used and more. However, for the entirety, you'll learn how the code works by using it in one of the lab projects, which is what I have going on here. It's neat, I believe at this rate right now I'm able to have constant labs daily.
+
+So to clarify, 3 days I take codeCamp journey, then on the fourth I take a break by just going slower and watching videos rather than practice. I think this'll help with a balance.
+
+So for this day what I meant by [Code Optimization] is that I optimized it for readability I moved around a few elements such as &lt;body&gt;, &lt;main&gt;, and &lt;footer&gt;, Why? well in yesterday's lessons I heard how &lt;section&gt; elements not only help on-screen readers for accessibility, but also increases code readability.
+
+Just wanted to add that to my works here. So far, it is better being arranged as such, where nesting is more apparent. My eyes can autoread faster through the code due to the added guide to know when a part of the page ends.
