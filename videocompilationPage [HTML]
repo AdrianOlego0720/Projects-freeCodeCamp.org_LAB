@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="utf-8">
     <title>Video Compilation Page</title>
@@ -10,36 +9,36 @@
 
 
 <body>
-    <main>
+<main>
+    <section>
         <h1><a href="https://www.linkedin.com/in/adrian-olego-205aab366/">Adrian's</a> Introduction Into &quot;The Strokes&quot; Music Band.</h1>
         <p>Here you'll see how Adrian ascended into &quot;The Strokes&quot; music band madness. This is my personal ranking of the music that got me into the rabbit hole of listening to &quot;The Strokes&quot;. </p>
+    </section>
+
+    <section>
+        <h2>It's Not The Same Anymore</h2>
+        <p>I don't know what makes this song so special to me even after having listened to it for hours on hours, it could just be the moment where everything drops all at once and he sings about how he can never change because its too late.</p>
+        <iframe width="1120" height="630" src="https://www.youtube.com/embed/EzrlnUiOMhc?autoplay=1&cc_load_policy=1" title="The Strokes Song - Not The Same Anymore" allow="encrypted-media; fullscreen; autoplay;" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+    </section>
 
 
-        <section>
-            <h2>It's Not The Same Anymore</h2>
-            <p>I don't know what makes this song so special to me even after having listened to it for hours on hours, it could just be the moment where everything drops all at once and he sings about how he can never change because its too late.</p>
-            <iframe width="1120" height="630" src="https://www.youtube.com/embed/EzrlnUiOMhc?autoplay=1&cc_load_policy=1" title="The Strokes Song - Not The Same Anymore" allow="encrypted-media; fullscreen; autoplay;" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-         </section>
+    <section>
+        <h2>Someday</h2>
+        <p>This song got me hooked with how good the instrumentals were, like all &quot;The Strokes&quot; songs. I like how simple yet engaging the instrumentals are! It's what lead me to begging my mom for a guitar for my 10th grade graduation.</p>
+        <iframe width="1120" height="630" src="https://www.youtube.com/embed/knU9gRUWCno?cc_load_policy=1" title="The Strokes Song - Someday" allow="encrypted-media; fullscreen;" referrerpolicy="strict-origin-when-cross-origin" loading="lazy"></iframe>
+    </section>
 
 
-        <section>
-            <h2>Someday</h2>
-            <p>This song got me hooked with how good the instrumentals were, like all &quot;The Strokes&quot; songs. I like how simple yet engaging the instrumentals are! It's what lead me to begging my mom for a guitar for my 10th grade graduation.</p>
-            <iframe width="1120" height="630" src="https://www.youtube.com/embed/knU9gRUWCno?cc_load_policy=1" title="The Strokes Song - Someday" allow="encrypted-media; fullscreen;" referrerpolicy="strict-origin-when-cross-origin" loading="lazy"></iframe>
-        </section>
+    <section>
+        <h2>Call it fate, Call it karma</h2>
+        <p>This song made me a feel a sense of melancholy, for the most of my life I've been alone, but have never been able to truly describe how remembering this realization comes flooding down on me. This is the song that represents it, when he asks to waste his time in the sidewalk, under someones light, this is how I've felt, longing for something, I am bound to never have, so I beg, hoping something is still listening.</p>
+        <iframe width="1120" height="630" src="https://www.youtube.com/embed/Txn5-dKLFHg?cc_load_policy=1" title="The Strokes Song - Call It Fate, Call It Karma" allow="encrypted-media; fullscreen" referrerpolicy="strict-origin-when-cross-origin" loading="lazy"></iframe>
+    </section>
+</main>
 
-
-        <section>
-            <h2>Call it fate, Call it karma</h2>
-            <p>This song made me a feel a sense of melancholy, for the most of my life I've been alone, but have never been able to truly describe how remembering this realization comes flooding down on me. This is the song that represents it, when he asks to waste his time in the sidewalk, under someones light, this is how I've felt, longing for something, I am bound to never have, so I beg, hoping something is still listening.</p>
-            <iframe width="1120" height="630" src="https://www.youtube.com/embed/Txn5-dKLFHg?cc_load_policy=1" title="The Strokes Song - Call It Fate, Call It Karma" allow="encrypted-media; fullscreen" referrerpolicy="strict-origin-when-cross-origin" loading="lazy"></iframe>
-        </section>
-
-        <footer>
-            <p>No Copyright Infringement Intended, Used For Educational Purposes Only --- A Lab Project for freeCodeCamp by <a href="https://www.linkedin.com/in/adrian-olego-205aab366/">Adrian</a></p>
-        </footer>
-
-    </main>
+    <footer>
+        <p>No Copyright Infringement Intended, Used For Educational Purposes Only --- A Lab Project for freeCodeCamp by <a href="https://www.linkedin.com/in/adrian-olego-205aab366/">Adrian</a></p>
+    </footer>
 </body>
 
 </html>
