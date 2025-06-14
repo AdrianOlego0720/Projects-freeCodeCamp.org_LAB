@@ -60,16 +60,18 @@
 
 
         <section>
-        <figure>
-            <img src="https://static.vecteezy.com/system/resources/previews/024/997/864/original/realistic-thumb-up-hand-gesture-on-transparent-background-as-like-good-feedback-positive-reaction-validation-and-approval-generative-ai-png.png" alt="A Photo Of A Hand Giving A Thumbs Up">
-            <figcaption>Yes, I'm Adrian but no I didn't make this pudding recipe or own any of the content shown, I just wanted to practice with freeCodeCamp.org making my own projects. (Please message me if you want the photos off)</figcaption>
-        </figure>
+            <figure>
+                <img src="https://static.vecteezy.com/system/resources/previews/024/997/864/original/realistic-thumb-up-hand-gesture-on-transparent-background-as-like-good-feedback-positive-reaction-validation-and-approval-generative-ai-png.png" alt="A Photo Of A Hand Giving A Thumbs Up">
+                <figcaption>Yes, I'm Adrian but no I didn't make this pudding recipe or own any of the content shown, I just wanted to practice with freeCodeCamp.org making my own projects. (Please message me if you want the photos off)</figcaption>
+            </figure>
         </section>
     </main>
 
-        <footer>
-            <p>No Copyright Infringement Intended - Used Only For Educational Purposes As A Project For <a href="www.freecodecamp.org">freeCodecamp.org</a></p>
-        </footer>
+        <section>
+            <footer>
+                <p>No Copyright Infringement Intended - Used Only For Educational Purposes As A Project For <a href="www.freecodecamp.org">freeCodecamp.org</a></p>
+            </footer>
+        </section>
     </body>
 </html>
 
