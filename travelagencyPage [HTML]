@@ -8,6 +8,7 @@
     </head>
 
     <body>
+    <main>
         <section>
             <h1>Travel Destinations</h1>
             <p>Here you'll see the most exciting, popular, and cultural travel destinations you should add to your bucketlist today!</p>
@@ -45,11 +46,12 @@
                 <figcaption>Visit the codeCampSea to swim in the very waters used by developers to retire their old hardware.</figcaption>
             </figure>
         </section>
-
+    </main>
 
     <footer>
+        <section>
         <p>No copyright infringement intended --- A freecodeCamp.org lab project by Adrian</p>
+        </section>
     </footer>
     </body>
-    
 </html>
