@@ -8,45 +8,48 @@
     </head>
 
     <body>
-        <h1>Travel Destinations</h1>
-        <p>Here you'll see the most exciting, popular, and cultural travel destinations you should add to your bucketlist today!</p>
+        <section>
+            <h1>Travel Destinations</h1>
+            <p>Here you'll see the most exciting, popular, and cultural travel destinations you should add to your bucketlist today!</p>
+        </section>
+        
+        <section>
+            <h2>Packages</h2>
+            <p>Already have your destination? Follow through on doing it with <a href="https://www.freecodecamp.org/Adrian_DO" target="_blank">Adrian's</a> Travel by exploring our most valuable travel packages! Get flights, hotels, a tourguide day and many more! All set for you when you land.</p>
+                <ul>
+                    <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+                    <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+                </ul>
+        </section>
+
+
+        <section>
+            <h2>Top Itineraries</h2>
+            <figure>
+                <a href="https://www.freecodecamp.org/learn" target="_blank">
+                <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="A Photo Of The codeCampColoseo!"> </a> 
+                <figcaption>Visit the codeCampColoseo for the wonderful opportunity of learning how code was developed, whilst being in the beautiful city of Rome!</figcaption>
+            </figure>
 
         
+            <figure>
+                <a href="https://www.freecodecamp.org/learn" target="_blank">
+                <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="A Photo Of The codeCampAlps!"> </a>
+                <figcaption>Visit the codeCampAlps to see where developers unwind after a long day in the office.</figcaption>
+            </figure>
+       
 
-        <h2>Packages</h2>
-        <p>Already have your destination? Follow through on doing it with <a href="https://www.freecodecamp.org/Adrian_DO" target="_blank">Adrian's</a> Travel by exploring our most valuable travel packages! Get flights, hotels, a tourguide day and many more! All set for you when you land.</p>
-        <ul>
-            <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
-            <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
-        </ul>
+            <figure>
+                <a href="https://www.freecodecamp.org/learn" target="_blank">
+                <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="A Photo Of The codeCampSea"> </a>
+                <figcaption>Visit the codeCampSea to swim in the very waters used by developers to retire their old hardware.</figcaption>
+            </figure>
+        </section>
 
-
-
-        <h2>Top Itineraries</h2>
-        <figure>
-            <a href="https://www.freecodecamp.org/learn" target="_blank">
-                <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="A Photo Of The codeCampColoseo!">  
-            </a>
-            <figcaption>Visit the codeCampColoseo for the wonderful opportunity of learning how code was developed, whilst being in the beautiful city of Rome!</figcaption>
-        </figure>
-
-        <figure>
-            <a href="https://www.freecodecamp.org/learn" target="_blank">
-                <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="A Photo Of The codeCampAlps!">
-            </a>
-            <figcaption>Visit the codeCampAlps to see where developers unwind after a long day in the office.</figcaption>
-        </figure>
-
-        <figure>
-            <a href="https://www.freecodecamp.org/learn" target="_blank">
-                <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="A Photo Of The codeCampSea">
-            </a>
-            <figcaption>Visit the codeCampSea to swim in the very waters used by developers to retire their old hardware.</figcaption>
-        </figure>
-    </body>
 
     <footer>
         <p>No copyright infringement intended --- A freecodeCamp.org lab project by Adrian</p>
     </footer>
-
+    </body>
+    
 </html>
