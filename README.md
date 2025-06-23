@@ -54,3 +54,10 @@ I also installed new VSCode Extensions suggested by "Devression" on YouTube, and
 
 Note to self: Go slow, or never do it again. It's never just a break.
 Note, Note: I'll also be making another repository but this time on C++, get some practice on the code I'll actually be using on campus.
+
+# <--- 6/23/2025 ---> [hackathonantics HTML]
+I haven't used CSS at all, or took seriously how naming schemes and ID's should be considered, but making this website I stumbled on why I should build with naming schemes in mind.
+
+You'll see in older projects (younger???) that it's clear I just built to build, there was no clear goal for scalability, it was just purely to make the site, and it worked. Now, I'm further down the hallway and got halfway through making it that if I wanted to style this HTML site with CSS, the more straightforward way would be to just tear it down and start all over (If I kept adding more elements), but luckily I caught on early. 
+
+Note to self: Read up on a coding idenity (naming scheme, formatting) and stick to that like it was always you. It'll help the devs that you work with.
