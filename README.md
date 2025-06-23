@@ -44,3 +44,13 @@ So to clarify, 3 days I take codeCamp journey, then on the fourth I take a break
 So for this day what I meant by [Code Optimization] is that I optimized it for readability I moved around a few elements such as &lt;body&gt;, &lt;main&gt;, and &lt;footer&gt;, Why? well in yesterday's lessons I heard how &lt;section&gt; elements not only help on-screen readers for accessibility, but also increases code readability.
 
 Just wanted to add that to my works here. So far, it is better being arranged as such, where nesting is more apparent. My eyes can autoread faster through the code due to the added guide to know when a part of the page ends.
+
+# <--- 6/23/2025 ---> [mr.whiskersBlog HTML]
+Yeah... breaks are for quitters, schedule got messy and lost track.
+
+Lessoned on HTML semantics which let me understand that I was veryyy wrong in my way of structuring. I'll make one big project that involves everything I know on HTML, by the end of this to adress everything. 
+
+I also installed new VSCode Extensions suggested by "Devression" on YouTube, and my formatting is wayyy off from what the "Prettier" extension formatting does. It'll take some time getting used to the "standard" readability.
+
+Note to self: Go slow, or never do it again. It's never just a break.
+Note, Note: I'll also be making another repository but this time on C++, get some practice on the code I'll actually be using on campus.
