@@ -61,3 +61,13 @@ I haven't used CSS at all, or took seriously how naming schemes and ID's should 
 You'll see in older projects (younger???) that it's clear I just built to build, there was no clear goal for scalability, it was just purely to make the site, and it worked. Now, I'm further down the hallway and got halfway through making it that if I wanted to style this HTML site with CSS, the more straightforward way would be to just tear it down and start all over (If I kept adding more elements), but luckily I caught on early. 
 
 Note to self: Read up on a coding idenity (naming scheme, formatting) and stick to that like it was always you. It'll help the devs that you work with.
+
+
+# <--- 6/25/2025 ---> [hotelfeedback HTML]
+I have written this code while basically half asleep, FCC guided me through the basics of making forms, drop-down answerings, and radio options (kinda weird that its called radio it confused me at first) but the gist is that there's only really three main things to worry about when making an answer form, these are the <legend> <label> and whether or not its an <input> or <option>, the rest are prerequisites that are required the most important one being type="x" because this decides (to an extent) what is allowed in the form.
+
+I have no doubt this form will take malicious intentions, it's just for practice on making forms. There's no security consideration for anything on here. Gapped another day, because I took the test (which was actually also today) on HTML semantics. 
+
+I don't appreciate how FCC takes the littlest error and shoves it in your face when doing a workshop project. Because, I was stuck on a space that I had left between one of the <legend> elements for like 2 minutes. 
+
+Note to self: I am really looking forward to getting on with CSS knowledge, it might be the start of me making my own little portfolio website though I have nothing to show yet lol.
